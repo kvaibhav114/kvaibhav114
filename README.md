@@ -22,14 +22,14 @@
 ---
 
 ## 🏆 Projects  
-### 📌 [Expenzo - Expense Tracker App](https://github.com/your-github/expenzo)  
+### 📌 [Expenzo - Expense Tracker App](https://github.com/kvaibhav114/expense-tracker)  
 A smart **expense tracking** app built with **React, Tailwind, Clerk authentication, Drizzle ORM & Neon PostgreSQL**.  
 Features:  
 ✔️ Add & manage expenses easily  
 ✔️ Category-based tracking with emoji support  
 ✔️ Upload and process Excel sheets  
 
-### 📌 [Farmer Dashboard](https://github.com/your-github/farmer-dashboard)  
+### 📌 [Farmer Dashboard](https://github.com/kvaibhav114/Farmer-Dashboard)  
 A **data-driven dashboard** designed for **farmers** to analyze crop production, market trends, and weather forecasts.  
 Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (DSEU University, Guna)**.  
 
@@ -45,10 +45,8 @@ Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (D
 ---
 
 ## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-vaibhav-181aa2249/)   
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](kvaibhav.1038@gmail.com)  
 
 ---
 
