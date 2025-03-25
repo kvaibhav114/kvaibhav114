@@ -32,6 +32,7 @@ Features:
 ### 📌 [Farmer Dashboard](https://github.com/kvaibhav114/Farmer-Dashboard)  
 A **data-driven dashboard** designed for **farmers** to analyze crop production, market trends, and weather forecasts.  
 Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (DSEU University, Guna)**.  
+Features:
 ✔️ Live weather data for better planning 
 ✔️ View farm locations and nearby facilities 
 ✔️ AI-driven suggestions based on soil and weather
