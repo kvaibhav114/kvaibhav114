@@ -14,14 +14,14 @@
 
 ---
 
-## 🔥 Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,express,mongodb,postgres,git,github,vscode" />
 </p>
 
 ---
 
-## 🏆 Projects  
+## Projects  
 ### 📌 [Expenzo - Expense Tracker App](https://github.com/kvaibhav114/expense-tracker)  
 A smart **expense tracking** app built with **React, Tailwind, Clerk authentication, Drizzle ORM & Neon PostgreSQL**.  
 Features:  
