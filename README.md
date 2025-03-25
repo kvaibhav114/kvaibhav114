@@ -35,19 +35,10 @@ Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (D
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=react&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-vaibhav-181aa2249/)   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](kvaibhav.1038@gmail.com)  
 
 ---
 
-⭐ **Feel free to check out my repositories and contribute!**  
+**Feel free to check out my repositories and contribute!**  
