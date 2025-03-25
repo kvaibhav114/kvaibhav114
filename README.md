@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kumar Vaibhav! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=450&lines=Aspiring+Web+Developer;React+Enthusiast;Building+Cool+Projects!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=450&lines=Aspiring+Web+Developer;React+Enthusiast" />
 </p>
 
 ---
@@ -32,6 +32,9 @@ Features:
 ### 📌 [Farmer Dashboard](https://github.com/kvaibhav114/Farmer-Dashboard)  
 A **data-driven dashboard** designed for **farmers** to analyze crop production, market trends, and weather forecasts.  
 Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (DSEU University, Guna)**.  
+✔️ Live weather data for better planning 
+✔️ View farm locations and nearby facilities 
+✔️ AI-driven suggestions based on soil and weather
 
 ---
 
