@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kumar ICIC QAZI BANK! 👋</h1>
+<h1 align="center">Hi, I'm Kumar Vaibhav! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=450&lines=Aspiring+Web+Developer;React+Enthusiast" />
