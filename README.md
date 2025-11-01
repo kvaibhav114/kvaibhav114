@@ -22,20 +22,22 @@
 ---
 
 ## Projects  
-### 📌 [Expenzo - Expense Tracker App](https://github.com/kvaibhav114/expense-tracker)  
-A smart **expense tracking** app built with **React, Tailwind, Clerk authentication, Drizzle ORM & Neon PostgreSQL**.  
-Features:  
-✔️ Add & manage expenses easily  
-✔️ Category-based tracking with emoji support  
-✔️ Upload and process Excel sheets 
+### 🌟 Luxe (E-commerce Application)
+* **Description:** A full-featured, modern e-commerce application demonstrating proficiency in full-stack development and cloud services. It includes all traditional e-commerce features (cart, checkout, wishlist, recommendations) and features unique AI integration.
+* **AI Integration:** Features a **chatbot** built with **GPT-4o-mini** that provides personalized **product recommendations** based on a user's stated needs.
+* **Tech Stack:**
+    * **Frontend:** **Next.js**
+    * **Backend/Deployment:** **Azure Services** (**CosmosDB**, **Static Web Apps**, **AI Foundry**)
+* ➡️ **[View Project](https://github.com/kvaibhav114/luxe-store)**
 
-### 📌 [Farmer Dashboard](https://github.com/kvaibhav114/Farmer-Dashboard)  
-A **data-driven dashboard** designed for **farmers** to analyze crop production, market trends, and weather forecasts.  
-Built with **React & modern UI frameworks**. Finalist in **Prod-E-G Hackathon (DSEU University, Guna)**.  
-Features:  
-✔️ Live weather data for better planning  
-✔️ View farm locations and nearby facilities  
-✔️ AI-driven suggestions based on soil and weather
+### 🎨 Scribbly (Collaborative Whiteboard)
+* **Description:** A real-time, collaborative whiteboard application designed for teams and remote sessions. Users can create or join a session and draw simultaneously with others.
+* **Real-Time Communication:** Leverages **WebSockets** to facilitate low-latency, real-time drawing and data synchronization.
+* **Additional Features:** Includes a **live chat** feature within each session.
+* **Tech Stack:**
+    * **Full Stack:** **MERN** (MongoDB, Express, React, Node.js)
+    * **Hosting:** **Vercel** (Frontend) and **Render** (Backend)
+* ➡️ **[View Project](https://github.com/kvaibhav114/scribbly-whiteboard)**
 
 ---
 
